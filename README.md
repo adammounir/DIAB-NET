@@ -6,31 +6,21 @@ This project focuses on predicting the likelihood of diabetes using machine lear
 
 
 
-## Table of Contents
-Project Overview
-Installation
-Dataset Description
-Project Workflow
-Modeling & Evaluation
-Screenshots
-Results
-Future Improvements
-Contributors
-
-
 
 
 ## Installation
 To run this project locally, ensure you have the following dependencies installed:
 
--Python 3.x
--Jupyter Notebook
--Required Libraries:
-  -NumPy
-  -pandas
-  -scikit-learn
-  -matplotlib
-  -seaborn
+- Python 3.x
+- Jupyter Notebook
+- Required Libraries:
+  - NumPy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+
+
 You can install the required libraries using:
 
 ```bash
@@ -67,7 +57,7 @@ The project consists of several stages:
    - Normalize and scale the data for better model performance.
    - Perform feature selection to improve accuracy.
 
-2. **Exploratory Data Analysis (EDA)**
+2. **Exploratory Data Analysis (EDA) and dimensionnality reduction**
    - Conduct visual analysis to understand relationships between features.
    - Include correlation heatmap, distribution plots, and pair plots.
 
@@ -77,9 +67,8 @@ The project consists of several stages:
    - Logistic Regression
    - Decision Tree Classifier
    - Random Forest Classifier
-   - Support Vector Machine (SVM)
 
-   We also performed hyperparameter tuning to optimize the models.
+   I also performed hyperparameter tuning to optimize the models.
 
 4. **Model Evaluation**
    The models were evaluated based on the following metrics:
@@ -87,12 +76,10 @@ The project consists of several stages:
    - Precision
    - Recall
    - F1-Score
-   - ROC-AUC
+
 
 **Insert model evaluation screenshots here:**
 - Confusion matrix
-- ROC curve
-- Feature importance (if applicable)
 
 
 
