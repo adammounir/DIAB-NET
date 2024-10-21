@@ -78,8 +78,6 @@ The project consists of several stages:
    - F1-Score
 
 
-**Insert model evaluation screenshots here:**
-- Confusion matrix
 
 
 
