@@ -96,7 +96,7 @@ The Random Forest model performed the best, with the highest accuracy and well-b
 
 
 ## Results
-The project successfully built a predictive model for diabetes. The Random Forest Classifier yielded the best results with an accuracy of xx%. The key insights from the model show that certain features like glucose level and BMI are strong predictors of diabetes.
+The project successfully built a predictive model for diabetes. The Random Forest Classifier yielded the best results with an accuracy of 76%. The key insights from the model show that certain features like glucose level and BMI are strong predictors of diabetes.
 
 
 
